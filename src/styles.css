@@ -46,3 +46,8 @@ body {
   max-width: 90%;
   height: 2rem;
 }
+
+.error{
+  display: flex;
+  justify-content: space-around;
+}
