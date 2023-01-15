@@ -19,6 +19,7 @@ export default function App() {
           <div className="imgWrap">
             <img
               className="img"
+              alt="captcha"
               src="https://www.pandasecurity.com/en/mediacenter/src/uploads/2014/09/avoid-captcha.jpg"
             />
           </div>
