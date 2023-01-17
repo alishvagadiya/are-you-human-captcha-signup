@@ -9,7 +9,6 @@ export default function App() {
 
   async function signupHandler(e) {
     e.preventDefault();
-    console.log(ans, captchaInputAns);
     if (ans === captchaInputAns) {
       setErrorMsg("Captcha Matched");
     } else {
